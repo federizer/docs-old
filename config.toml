@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "Federizer"
 
 enableRobotsTXT = true
 
@@ -53,8 +53,8 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Federizer"
+description = "Authorization-Enhanced Mail System"
 languageName ="English"
 
 [markup]
@@ -74,7 +74,7 @@ languageName ="English"
 section = ["HTML", "print"]
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "1token"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
