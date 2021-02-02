@@ -9,7 +9,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This is a work in progress. A placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
 
 
