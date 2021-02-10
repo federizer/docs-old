@@ -1,3 +1,5 @@
+In the generated page 'public/index.html'
+
 Replace:
 ```
 <meta property="og:image" content="/featured-background.jpg"/>
